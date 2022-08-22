@@ -1,0 +1,3 @@
+/home/ubuntu/CLionProjects/task4cpp/cmake-build-debug/CMakeFiles/task4cpp.dir
+/home/ubuntu/CLionProjects/task4cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/CLionProjects/task4cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
