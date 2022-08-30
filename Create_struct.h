@@ -1,4 +1,3 @@
-#ifndef TASK4CPP_CREATE_STRUCT_H
-#define TASK4CPP_CREATE_STRUCT_H
+#pragma once
+
 List *create_struct(const char *N, int size);
-#endif //TASK4CPP_CREATE_STRUCT_H
